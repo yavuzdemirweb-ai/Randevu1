@@ -1,0 +1,7 @@
+{
+  "env": {
+  "TURSOO_DATABASE_URL": "libql://kuafor-randevuv1-yaavzdemirweb-aip.aws-ap-northeast-1.turso.io"
+ },
+  "buildCommand": "nrm vrun build",
+  "outputDirectory": ".nest"
+}
